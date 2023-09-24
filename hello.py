@@ -1,2 +1,3 @@
 print("Hello World")
-print("add 1")
+print("add web")
+print("add vcs")
